@@ -25,4 +25,4 @@ std::string Student::show() const
          + std::to_string(indexNumber_) + "; " 
          + pesel_ + "; " 
          + "Male";
-};
+}
